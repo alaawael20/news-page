@@ -1,5 +1,11 @@
+import NavBar from "./components/layout/navbar/NavBar";
+
 function App() {
-  return <div>News Page</div>;
+  return (
+    <div>
+      <NavBar />
+    </div>
+  );
 }
 
 export default App;
