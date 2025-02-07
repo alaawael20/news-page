@@ -3,7 +3,7 @@ import "./style.css";
 
 const CustomNavbar = () => {
   return (
-    <Navbar expand="lg" className="custom-navbar shadow-sm">
+    <Navbar expand="lg" className="custom-navbar">
       <Container>
         <Navbar.Brand href="/" className="logo">
           <span className="logo-text">منصة رواد الإخبارية</span>
